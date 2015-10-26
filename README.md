@@ -1,2 +1,4 @@
 # Ardunio-Scanner
-Connect and transfer data android with bluetooth device
+Connect and transfer data from bluetooth device to android.
+
+
